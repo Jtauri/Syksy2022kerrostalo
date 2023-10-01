@@ -18,6 +18,6 @@ int main()
     Kerrostalo* talo = new Kerrostalo();
     cout<<"Kerrostalon kulutus, = "<<talo->laskeKulutus(1)<<endl;
     delete talo;
-
+    /*testi*/
     return 0;
 }
